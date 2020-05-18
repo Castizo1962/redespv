@@ -1,0 +1,6 @@
+echo  "# redespv">>Readme
+git init
+git add  README.md
+git commit  -m "primer comentario"
+git remote and origin  https://github.com/Castizo1962/redespv.git
+git push -u origin master
